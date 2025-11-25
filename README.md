@@ -168,10 +168,4 @@ Decoding File Data
 
 ---
 
-## 📝 Author
-Developed as part of an academic demonstration of **digital steganography using LSB technique**.
 
----
-
-## 📄 License
-This project is open-source and free to use for educational purposes.
